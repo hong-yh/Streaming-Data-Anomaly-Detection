@@ -17,6 +17,7 @@ setup(
         'sh',
         'numpy',
         'matplotlib',
-	'kafka-python'
+        'kafka-python',
+        'psycopg2-binary'
     ],
 )
